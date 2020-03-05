@@ -1,5 +1,5 @@
 
-# Tasks for "Algorithms and complexity analysis" at SPbSTU. December 2017.
+# Tasks for "Algorithms and complexity analysis" at SPbPU. December 2017.
 
 ### [Lab_1](/Lab_1)
 Вывести максимальное число попарно не пересекающихся отрезков из входного множества.
